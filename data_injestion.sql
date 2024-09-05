@@ -1,5 +1,5 @@
 -- Insert data into Directors
-INSERT INTO Directors (name, birth_date, nationality) VALUES 
+INSERT INTO Directors (director_name, birth_date, nationality) VALUES 
 ('Steven Spielberg', '1946-12-18', 'American'),
 ('Christopher Nolan', '1970-07-30', 'British-American'),
 ('Martin Scorsese', '1942-11-17', 'American');
