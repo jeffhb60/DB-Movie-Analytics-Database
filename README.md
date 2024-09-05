@@ -32,7 +32,7 @@ The database consists of the following tables:
 - **ViewingHistory**: Stores users' movie-watching history.
 
 ### ER Diagram
-![ER Diagram](er_diagram.png)  <!-- You can replace this with an actual ER diagram image file if available. -->
+![ER Diagram](ERD_Diagram.png)  <!-- You can replace this with an actual ER diagram image file if available. -->
 
 ## Data Ingestion
 Sample data is provided for each table to simulate a real-world scenario:
