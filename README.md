@@ -170,7 +170,7 @@ cd movie-analytics-database
 > Execute queries from `queries.sql` to analyze the data.
 
 ## Conclusion
-The **Movie Analytics Database **project provides a comprehensive demonstration of SQL skills, from database design to data analysis and optimization. It serves as a strong portfolio piece to showcase your expertise in SQL and database management.
+The **Movie Analytics Database** project provides a comprehensive demonstration of SQL skills, from database design to data analysis and optimization. It serves as a strong portfolio piece to showcase your expertise in SQL and database management.
 
 Feel free to explore the repository and contribute to further improvements!
 
