@@ -1,6 +1,6 @@
 CREATE TABLE Directors (
     director_id INT AUTO_INCREMENT PRIMARY KEY,
-    name VARCHAR(100) NOT NULL,
+    director_name VARCHAR(100) NOT NULL,
     birth_date DATE,
     nationality VARCHAR(50)
 );
