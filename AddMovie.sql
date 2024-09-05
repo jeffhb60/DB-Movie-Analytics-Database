@@ -14,6 +14,7 @@ BEGIN
 END //
 DELIMITER ;
 
+-- Function to Calculate Average Rating for a Movie:
 DELIMITER //
 CREATE FUNCTION GetAverageRating(movieId INT) RETURNS DECIMAL(3, 2)
 BEGIN
