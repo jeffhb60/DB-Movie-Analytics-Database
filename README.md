@@ -11,7 +11,6 @@ The **Movie Analytics Database** project is a comprehensive SQL-based project th
 7. [Triggers](#triggers)
 8. [Performance Optimization](#performance-optimization)
 9. [Setup Instructions](#setup-instructions)
-10. [Data Insights and Visualizations](#data-insights-and-visualizations)
 
 ## Project Features
 - **Relational Database Schema**: Design of a normalized database schema with tables for `Movies`, `Users`, `Directors`, `Ratings`, `Reviews`, `Subscriptions`, and `ViewingHistory`.
@@ -155,3 +154,25 @@ Additional SQL queries can be found in the `queries.sql` file.
 ### Query Optimization
 > Queries are optimized using the `EXPLAIN` command to analyze execution plans and improve performance.
 
+## Setup Instructions
+1. Clone the Repository
+   
+```bash
+git clone https://github.com/yourusername/movie-analytics-database.git
+cd movie-analytics-database
+```
+
+2. **Create the Database and Tables**
+> Run the SQL scripts in `schema.sql` to create the database and tables.
+3. **Insert Sample Data**
+> Run the SQL scripts in `data_ingestion.sql` to populate the tables with sample data.
+4. **Run SQL Queries**
+> Execute queries from `queries.sql` to analyze the data.
+
+## Conclusion
+The **Movie Analytics Database **project provides a comprehensive demonstration of SQL skills, from database design to data analysis and optimization. It serves as a strong portfolio piece to showcase your expertise in SQL and database management.
+
+Feel free to explore the repository and contribute to further improvements!
+
+## Contact
+For any questions or suggestions, feel free to me at jeffhb60@gmail.com.  
